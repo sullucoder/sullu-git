@@ -1,5 +1,6 @@
 # sullu-git
+
 this is my first git repotary
 <br>
-Author-sulakshya
+Author-Sulakshya Man Shresthagit 
 <br/>
